@@ -68,5 +68,4 @@
             android:textAlignment="center"
             android:textSize="15sp"/>
     </androidx.gridlayout.widget.GridLayout>
-
 </LinearLayout>

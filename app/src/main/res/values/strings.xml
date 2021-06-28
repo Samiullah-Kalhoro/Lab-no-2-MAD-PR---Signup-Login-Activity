@@ -7,17 +7,16 @@
     <string name="confirm_password">Confirm Password</string>
     <string name="app_logo">app logo</string>
     <string name="date_of_birth">Date of Birth</string>
-    <string name="dd">DD</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
-    <string name="signup_activity">Signup Activity</string>
+    <string name="signup_activity">Signup Form</string>
     <string name="gender">Gender</string>
     <string name="dd_mm_yyyy">DD/MM/YYYY</string>
     <string name="by_signing_up_your_are_accepting_our_terms_conditions"><![CDATA[By signing up you are \naccepting Sangat\'s terms & conditions]]></string>
     <string name="sign_up">SIGN UP</string>
     <string name="login">Login</string>
     <string name="forget_email_password">Forget Email/Password</string>
-    <string name="forgotten_password">Forgetten password?</string>
+    <string name="forgotten_password">Forgotten password?</string>
     <string name="login_form">Login Form</string>
     <string name="info_activity">Info Activity</string>
 </resources>
